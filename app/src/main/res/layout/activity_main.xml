@@ -26,5 +26,12 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/button"
         android:id="@+id/img"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img"
+        android:text="发送post请求"
+        android:id="@+id/button1"/>
+
 
 </RelativeLayout>
